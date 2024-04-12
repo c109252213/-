@@ -5,6 +5,11 @@
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | c109252213@nkust.edu.tw          |
 | 選修             | 智慧城市導論                  |
+| 選修             |  數位通訊	                  |
+| 選修             |   系統及封裝電路與驗證		                  |
+| 選修             |  精密量測技術	                  |
+| 選修             |  特殊半導體及應用	                  |
+
 <a href="https://www.youtube.com/watch?v=Di42x7_0z_I" target="_blank">日本5G宣傳概念影片</a>
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
