@@ -5,4 +5,8 @@
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | c109252213@nkust.edu.tw          |
 | 選修             | 智慧城市導論                  |
-<iframe width="1259" height="708" src="https://www.youtube.com/embed/Owke6Quk7T0" title="台灣地震監視(地震速報、強震即時警報)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=Di42x7_0z_I" target="_blank">日本5G宣傳概念影片</a>
+<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I" target="_blank"><img src="http://img.youtube.com/vi/Di42x7_0z_I/0.jpg" 
+alt="日本5G宣傳概念影片" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
